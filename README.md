@@ -59,7 +59,7 @@ My experience spans hyperscale cloud providers, regional cloud platforms, VPS/de
 <img src="https://skillicons.dev/icons?i=alibabacloud" width="60" alt="Alibaba Cloud" />
 </a>
 <a href="https://www.digitalocean.com/">
-<img src="https://skillicons.dev/icons?i=digitalocean" width="60" alt="DigitalOcean" />
+<img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white"> width="60" alt="DigitalOcean" />
 </a>
 <a href="https://www.vultr.com/">
 <img src="https://skillicons.dev/icons?i=vultr" width="60" alt="Vultr" />
