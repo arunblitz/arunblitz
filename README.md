@@ -1,186 +1,169 @@
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0369a1,100:06b6d4&height=180&section=header&text=Arun%20Vijayan&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Cloud%20Solutions%20Architect%20%7C%20Multi-Cloud%20%7C%20DevOps%20%7C%20Cloud%20Security&descAlignY=60&descSize=18" width="100%" />
+  </a>
+</p>
+
+<h2 align="center">👋 Hi, I'm Arun Vijayan</h2>
 
 <p align="center">
-  <img src="./profile-banner.png" alt="Arun Vijayan - Cloud Solutions Architect">
+  <b>Cloud Solutions Architect | Multi-Cloud | DevOps | Cloud Security | Platform Engineering</b>
 </p>
-# 👋 Hi, I'm Arun Vijayan
 
-### Cloud Solutions Architect | Multi-Cloud | DevOps | Cloud Security | Infrastructure & Platform Engineering
+<p align="center">
+  I design, build, secure, automate and operate production-grade cloud platforms
+  that are scalable, reliable and cost-effective.
+</p>
 
-I design, build, secure, automate, and operate **production-grade cloud and infrastructure platforms**.
-
-With **18+ years of experience in IT infrastructure, cloud, DevOps, and systems engineering**, I've worked across hyperscale cloud platforms, regional cloud providers, dedicated infrastructure, SaaS platforms, and enterprise collaboration environments.
-
-My approach is simple:
-
-> **Choose the right architecture and platform for the problem, rather than forcing every problem into one cloud.**
-
----
-
-## ☁️ Multi-Cloud Experience
-
-I've worked hands-on across a broad range of cloud and infrastructure platforms.
-
-### Hyperscale Cloud
-
-* **Microsoft Azure**
-* **Amazon Web Services (AWS)**
-* **Google Cloud Platform (GCP)**
-* **Oracle Cloud Infrastructure (OCI)**
-* **Alibaba Cloud**
-
-### Cloud & Infrastructure Providers
-
-* **DigitalOcean**
-* **Vultr**
-* **Hetzner**
-* **Xneelo**
-* Other VPS, dedicated-server, and hosting environments
-
-My experience ranges from **small VPS-based deployments to large production environments involving microservices, containers, databases, networking, security, monitoring, CDN/WAF, CI/CD, and enterprise integrations.**
+<p align="center">
+  <a href="https://aws.amazon.com/certification/certified-solutions-architect-professional/">
+    <img src="https://img.shields.io/badge/AWS-Certified%20Solutions%20Architect%20Professional-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  </a>
+  <a href="https://learn.microsoft.com/en-us/credentials/">
+    <img src="https://img.shields.io/badge/Microsoft-Certified-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Experience-18%2B%20Years-0ea5e9?style=for-the-badge" />
+</p>
 
 ---
 
-## 🏢 Microsoft & Google Ecosystems
+## ☁️ Cloud & Technology Stack
 
-### Microsoft
+<p align="center">
 
-* Microsoft 365
-* Entra ID
-* Exchange Online
-* Microsoft Teams
-* SharePoint
-* OneDrive
-* Azure
-* Azure DevOps
-* Microsoft Defender ecosystem
-* Microsoft Graph
+<a href="https://azure.microsoft.com/">
+<img src="https://skillicons.dev/icons?i=azure" width="60" />
+</a>
+<a href="https://aws.amazon.com/">
+<img src="https://skillicons.dev/icons?i=aws" width="60" />
+</a>
+<a href="https://cloud.google.com/">
+<img src="https://skillicons.dev/icons?i=gcp" width="60" />
+</a>
+<a href="https://www.oracle.com/cloud/">
+<img src="https://skillicons.dev/icons?i=oracle" width="60" />
+</a>
+<a href="https://www.alibabacloud.com/">
+<img src="https://skillicons.dev/icons?i=alibabacloud" width="60" />
+</a>
+<a href="https://www.digitalocean.com/">
+<img src="https://skillicons.dev/icons?i=digitalocean" width="60" />
+</a>
+<a href="https://www.vultr.com/">
+<img src="https://skillicons.dev/icons?i=vultr" width="60" />
+</a>
+<a href="https://www.hetzner.com/">
+<img src="https://skillicons.dev/icons?i=hetzner" width="60" />
+</a>
 
-### Google
+<br>
 
-* Google Workspace
-* Google Cloud
-* Google Cloud IAM
-* Google Cloud networking
-* Google Workspace administration
+<a href="https://www.docker.com/">
+<img src="https://skillicons.dev/icons?i=docker" width="60" />
+</a>
+<a href="https://kubernetes.io/">
+<img src="https://skillicons.dev/icons?i=kubernetes" width="60" />
+</a>
+<a href="https://www.terraform.io/">
+<img src="https://skillicons.dev/icons?i=terraform" width="60" />
+</a>
+<a href="https://www.ansible.com/">
+<img src="https://skillicons.dev/icons?i=ansible" width="60" />
+</a>
+<a href="https://git-scm.com/">
+<img src="https://skillicons.dev/icons?i=git" width="60" />
+</a>
+<a href="https://github.com/">
+<img src="https://skillicons.dev/icons?i=github" width="60" />
+</a>
+<a href="https://www.jenkins.io/">
+<img src="https://skillicons.dev/icons?i=jenkins" width="60" />
+</a>
+<a href="https://about.gitlab.com/">
+<img src="https://skillicons.dev/icons?i=gitlab" width="60" />
+</a>
 
-I've worked with both **cloud infrastructure and enterprise identity/collaboration environments**, including migrations, tenant administration, identity, email, security, and hybrid integrations.
+<br>
 
----
+<a href="https://dotnet.microsoft.com/">
+<img src="https://skillicons.dev/icons?i=dotnet" width="60" />
+</a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
+<img src="https://skillicons.dev/icons?i=cs" width="60" />
+</a>
+<a href="https://nodejs.org/">
+<img src="https://skillicons.dev/icons?i=nodejs" width="60" />
+</a>
+<a href="https://www.typescriptlang.org/">
+<img src="https://skillicons.dev/icons?i=ts" width="60" />
+</a>
+<a href="https://www.python.org/">
+<img src="https://skillicons.dev/icons?i=python" width="60" />
+</a>
+<a href="https://react.dev/">
+<img src="https://skillicons.dev/icons?i=react" width="60" />
+</a>
+<a href="https://angular.dev/">
+<img src="https://skillicons.dev/icons?i=angular" width="60" />
+</a>
 
-## 🛠️ Core Engineering Areas
+<br>
 
-### ☁️ Cloud Architecture
+<a href="https://www.postgresql.org/">
+<img src="https://skillicons.dev/icons?i=postgres" width="60" />
+</a>
+<a href="https://www.mysql.com/">
+<img src="https://skillicons.dev/icons?i=mysql" width="60" />
+</a>
+<a href="https://www.mongodb.com/">
+<img src="https://skillicons.dev/icons?i=mongodb" width="60" />
+</a>
+<a href="https://redis.io/">
+<img src="https://skillicons.dev/icons?i=redis" width="60" />
+</a>
+<a href="https://www.linux.org/">
+<img src="https://skillicons.dev/icons?i=linux" width="60" />
+</a>
+<a href="https://nginx.org/">
+<img src="https://skillicons.dev/icons?i=nginx" width="60" />
+</a>
 
-`AWS` `Azure` `GCP` `OCI` `Alibaba Cloud`
-
-`DigitalOcean` `Vultr` `Hetzner` `Xneelo`
-
-### 🏗️ Infrastructure as Code
-
-`Terraform` `Bicep` `ARM Templates`
-
-### 🚀 DevOps & CI/CD
-
-`GitHub Actions` `Azure DevOps` `GitLab CI/CD`
-
-`Docker` `Kubernetes` `Docker Swarm`
-
-`Octopus Deploy` `Harbor` `Container Registries`
-
-### 🌐 Networking
-
-`VPC` `VNet` `Private Endpoints` `VPN`
-
-`Load Balancers` `CDN` `WAF` `DNS`
-
-`CloudFront` `Azure Front Door` `API Management`
-
-`Traefik` `Nginx`
-
-### 🔐 Security
-
-`Cloud Security` `DevSecOps` `IAM` `RBAC`
-
-`Zero Trust` `Network Security`
-
-`Secrets Management` `WAF`
-
-`SAST` `Dependency Security` `Container Security`
-
-`Security Auditing`
-
-### 📊 Observability
-
-`Prometheus` `Grafana` `Loki`
-
-`CloudWatch` `Azure Monitor`
-
-`Log Analytics` `Application Insights`
-
-### 🗄️ Data & Infrastructure
-
-`Azure SQL` `SQL Server` `PostgreSQL` `MySQL`
-
-`Amazon RDS` `Redis` `MongoDB`
-
-`S3` `Azure Blob Storage` `Object Storage`
-
-`RabbitMQ` `NATS`
-
----
-
-## 🧩 What I Work On
-
-### Cloud Architecture
-
-Designing scalable and secure architectures for:
-
-* SaaS platforms
-* Microservices
-* APIs
-* Enterprise applications
-* E-commerce platforms
-* Data platforms
-* Healthcare systems
-* Education platforms
-* High-availability production systems
-
-### Infrastructure Engineering
-
-Building and operating:
-
-```text
-Cloud Infrastructure
-        │
-        ├── Networking
-        ├── Compute
-        ├── Containers
-        ├── Databases
-        ├── Storage
-        ├── Caching
-        ├── Messaging
-        ├── Security
-        ├── Monitoring
-        └── CI/CD
-```
-
-### Cloud Migration
-
-I work with migrations involving:
-
-* On-premises → Cloud
-* AWS → Azure
-* Azure → AWS
-* VPS → Cloud
-* Traditional servers → Containers
-* Monolith → Microservices
-* Manual infrastructure → Infrastructure as Code
+</p>
 
 ---
 
-## 🔐 Security-First Architecture
+## 🌐 Multi-Cloud Experience
 
-Security is treated as part of the architecture, not an afterthought.
+| Platform               | Experience                                                                                 |
+| ---------------------- | ------------------------------------------------------------------------------------------ |
+| ☁️ **Microsoft Azure** | Cloud architecture, App Services, Containers, SQL, networking, Front Door, APIM, Key Vault |
+| ☁️ **AWS**             | EC2, ECS, ECR, RDS, S3, CloudFront, VPC, ElastiCache, OpenSearch                           |
+| ☁️ **Google Cloud**    | Compute, networking, storage, IAM and cloud infrastructure                                 |
+| ☁️ **Oracle Cloud**    | OCI infrastructure and cloud services                                                      |
+| ☁️ **Alibaba Cloud**   | Cloud infrastructure and production workloads                                              |
+| 🌊 **DigitalOcean**    | VPS, networking, managed services and production deployments                               |
+| ⚡ **Vultr**            | VPS, cloud compute and infrastructure                                                      |
+| 🖥️ **Hetzner**        | Dedicated servers, VPS and infrastructure                                                  |
+| 🌐 **Xneelo**          | Hosting and production infrastructure                                                      |
+
+---
+
+## 🚀 What I Do
+
+* ☁️ **Cloud Architecture** - Multi-cloud & hybrid solutions
+* 🏗️ **Infrastructure as Code** - Terraform, Bicep, ARM
+* 🚀 **DevOps & CI/CD** - GitHub Actions, Azure DevOps, GitLab CI
+* 🐳 **Containers & Orchestration** - Docker, Kubernetes, Docker Swarm
+* 🔐 **Cloud Security** - IAM, Zero Trust, networking, DevSecOps
+* 📊 **Observability** - Prometheus, Grafana, Loki, CloudWatch, Azure Monitor
+* 🗄️ **Databases & Storage** - SQL, NoSQL, object storage, caching
+* 💰 **Cloud Optimization** - Right-sizing, FinOps and architecture optimization
+* 🏢 **Microsoft 365** - Entra ID, Exchange Online, Teams, SharePoint
+* 🌐 **Google Workspace** - Administration, identity, migration and security
+
+---
+
+## 🔐 Security Mindset
 
 ```text
 Identity
@@ -202,186 +185,69 @@ Logging & Monitoring
 Detection & Response
 ```
 
-I also perform security assessments covering:
-
-* Cloud infrastructure
-* APIs
-* Web applications
-* Containers
-* CI/CD pipelines
-* IAM
-* Network configuration
-* Secrets and credentials
-* Repository security
-* Infrastructure as Code
+I also perform security assessments covering cloud infrastructure, APIs, applications, containers, CI/CD pipelines, IAM, networking, repositories and Infrastructure as Code.
 
 ---
 
-## ⚙️ Platform Engineering
-
-I enjoy building reusable platforms that make development and operations easier.
-
-Typical platform components include:
+## 🏗️ Architecture
 
 ```text
-                    Developers
-                        │
-                        ▼
-                  Git / GitHub
-                        │
-                        ▼
-                    CI / CD
-                        │
-              ┌─────────┴─────────┐
-              ▼                   ▼
-          Container            IaC
-           Build            Terraform/Bicep
-              │                   │
-              ▼                   ▼
-          Registry             Cloud
-              │              Infrastructure
-              └─────────┬─────────┘
-                        ▼
-                 Production
-                        │
-              ┌─────────┼─────────┐
-              ▼         ▼         ▼
-           Metrics    Logs     Security
+                         INTERNET
+                            │
+                       CDN / WAF
+                            │
+                    Load Balancer
+                            │
+                      API Gateway
+                            │
+             ┌──────────────┼──────────────┐
+             │              │              │
+         Service A      Service B      Service C
+             │              │              │
+             └──────────────┼──────────────┘
+                            │
+              ┌─────────────┼─────────────┐
+              │             │             │
+           Database       Redis        Storage
+              │             │             │
+              └─────────────┼─────────────┘
+                            │
+                  Monitoring & Logging
 ```
 
 ---
 
-## 🌍 Cloud Isn't One-Size-Fits-All
+## 📊 GitHub
 
-I've worked with environments ranging from:
-
-**A single VPS**
-
-```text
-Internet → Nginx → Application → Database
-```
-
-to:
-
-**Large distributed production platforms**
-
-```text
-                    CDN / WAF
-                       │
-                       ▼
-                 Load Balancer
-                       │
-                 API Gateway
-                       │
-            ┌──────────┼──────────┐
-            ▼          ▼          ▼
-         Service A  Service B  Service C
-            │          │          │
-            └──────────┼──────────┘
-                       │
-              ┌────────┴────────┐
-              ▼                 ▼
-          Database            Redis
-              │
-              ▼
-          Object Storage
-```
-
-The architecture should match the **business requirement, scale, reliability requirements, security model, and budget**.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent" height="170" />
+</p>
 
 ---
 
-## 💰 Cloud Cost Optimization
+## 🧭 Currently Exploring
 
-Cloud architecture isn't only about making systems scale.
-
-It's also about making them **economically sustainable**.
-
-I work on:
-
-* Resource right-sizing
-* Compute optimization
-* Database optimization
-* Storage optimization
-* Reserved capacity
-* Architecture optimization
-* Multi-cloud cost comparison
-* Infrastructure consolidation
-* Monitoring unexpected cost increases
-
-> **The best architecture is not necessarily the most expensive architecture.**
+* 🤖 AI-assisted DevOps & Platform Engineering
+* 🔐 AI-powered Security Automation
+* 🏗️ Advanced Multi-Cloud Architecture
+* 💰 FinOps & Cloud Cost Optimization
+* 🚀 Autonomous Infrastructure Operations
+* 🌎 Open Source Infrastructure Projects
 
 ---
 
-## 🤖 Exploring AI + Infrastructure
+## 🤝 Let's Connect
 
-I'm increasingly interested in the intersection of:
-
-**AI + Cloud + DevOps + Security**
-
-Currently exploring:
-
-* AI-assisted infrastructure engineering
-* AI coding agents
-* Autonomous DevOps workflows
-* AI-powered security analysis
-* Infrastructure automation
-* Intelligent observability
-* AI-assisted cloud operations
+<p align="center">
+  <a href="[https://www.linkedin.com/in/](https://www.linkedin.com/in/av006)[av006](https://www.linkedin.com/in/av006)">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />   </a>   <a href="https://github.com/arunblitz">     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 📚 Certifications & Professional Development
-
-* AWS Certified Solutions Architect – Professional
-* Microsoft Certified
-* Continuous learning across Azure, AWS, GCP, Terraform, Security, DevOps, and Platform Engineering
-
----
-
-## 📈 GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=transparent)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=transparent)
-
----
-
-## 🤝 Open to Interesting Problems
-
-I'm particularly interested in projects involving:
-
-* ☁️ Multi-cloud architecture
-* 🏗️ Infrastructure as Code
-* 🚀 DevOps & Platform Engineering
-* 🔐 Cloud Security
-* 🌐 Distributed systems
-* 🐳 Containers & Kubernetes
-* 🤖 AI + Infrastructure
-* 💰 Cloud optimization
-* 🔄 Cloud migrations
-* 🛠️ Open-source infrastructure tooling
-
----
-
-## ⚡ A Little About My Philosophy
-
-> **I've spent enough time in production to know that architecture diagrams are only the beginning.**
-
-The real engineering starts when:
-
-* traffic suddenly increases,
-* DNS stops resolving,
-* a certificate expires,
-* a database runs out of space,
-* a deployment fails at 2 AM,
-* an engineer accidentally deletes something,
-* or the cloud bill suddenly doubles.
-
-**Building systems that survive those moments is what I enjoy.**
-
----
-
-### 🌎 Multi-Cloud. Production-Focused. Security-Minded.
-
-**AWS • Azure • GCP • OCI • Alibaba Cloud • DigitalOcean • Vultr • Hetzner • Xneelo • Microsoft 365 • Google Workspace**
+<p align="center">
+  <b>⭐ I don't just build infrastructure.</b><br>
+  I build <b>reliable platforms</b> that help businesses grow.
+</p>
