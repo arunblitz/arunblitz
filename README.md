@@ -481,34 +481,6 @@ Continuously expanding expertise across:
 
 ---
 
-# 📈 GitHub Activity
-
-<p align="center">
-
-<img
-src="https://github-readme-stats.vercel.app/api?username=arunblitz&show_icons=true&hide_border=true&theme=transparent"
-height="170"
-alt="Arun's GitHub statistics"
-/>
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunblitz&layout=compact&hide_border=true&theme=transparent"
-height="170"
-alt="Arun's most used languages"
-/>
-
-</p>
-
-<p align="center">
-
-<img
-src="https://streak-stats.demolab.com?user=arunblitz&theme=transparent&hide_border=true"
-alt="GitHub contribution streak"
-/>
-
-</p>
-
----
 
 # 🧭 Currently Exploring
 
