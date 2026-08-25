@@ -1,3 +1,7 @@
+
+<p align="center">
+  <img src="./profile-banner.png" alt="Arun Vijayan - Cloud Solutions Architect">
+</p>
 # 👋 Hi, I'm Arun Vijayan
 
 ### Cloud Solutions Architect | Multi-Cloud | DevOps | Cloud Security | Infrastructure & Platform Engineering
