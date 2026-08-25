@@ -59,7 +59,7 @@ My experience spans hyperscale cloud providers, regional cloud platforms, VPS/de
 <img src="https://skillicons.dev/icons?i=alibabacloud" width="60" alt="Alibaba Cloud" />
 </a>
 <a href="https://www.digitalocean.com/">
-<img src="https://skillicons.dev/icons?i=digitalocean" width="60" alt="DigitalOcean" />
+<img src="[https://skillicons.dev/icons?i=digitalocean](https://icon.icepanel.io/Technology/svg/Digital-Ocean.svg)" width="60" alt="DigitalOcean" />
 </a>
 <a href="https://www.vultr.com/">
 <img src="https://skillicons.dev/icons?i=vultr" width="60" alt="Vultr" />
@@ -428,27 +428,6 @@ I continuously expand my knowledge across **Azure, AWS, GCP, Terraform, Security
 
 ---
 
-# 📈 GitHub
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=arunblitz&show_icons=true&hide_border=true&theme=transparent"
-    height="170"
-    alt="Arun's GitHub statistics"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunblitz&layout=compact&hide_border=true&theme=transparent"
-    height="170"
-    alt="Arun's most used languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=arunblitz&theme=transparent&hide_border=true"
-    alt="GitHub contribution streak"
-  />
-</p>
 
 ---
 
