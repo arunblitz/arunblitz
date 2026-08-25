@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/arunblitz">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0369a1,100:06b6d4&height=180&section=header&text=Arun%20Vijayan&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Cloud%20Solutions%20Architect%20%7C%20Multi-Cloud%20%7C%20DevOps%20%7C%20Cloud%20Security&descAlignY=60&descSize=18" width="100%" />
   </a>
 </p>
@@ -220,8 +220,8 @@ I also perform security assessments covering cloud infrastructure, APIs, applica
 ## 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arunblitz&show_icons=true&hide_border=true&theme=transparent" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunblitz&layout=compact&hide_border=true&theme=transparent" height="170" />
 </p>
 
 ---
